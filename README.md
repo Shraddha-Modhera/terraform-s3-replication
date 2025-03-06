@@ -65,7 +65,7 @@ secondary_bucket_name = "my-secondary-bucket"
 ## **Deployment Steps**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/shru2010/terraform-s3-replication.git
+git clone https://github.com/Shraddha-Modhera/terraform-s3-replication.git
 cd terraform-s3-replication
 ```
 
